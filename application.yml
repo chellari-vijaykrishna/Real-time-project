@@ -10,5 +10,5 @@ spring:
     database-platform: org.hibernate.dialect.MySQL8Dialect
     hibernate:
       ddl-auto: update
-      USER FEATURE-1-LINUX
+      USER FEATURE-1-LINUX2
 ##END OF THE YML FILE
